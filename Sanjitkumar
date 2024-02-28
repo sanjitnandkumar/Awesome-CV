@@ -1,0 +1,113 @@
+\documentclass[a4paper,11pt]{awesome-cv}
+\usepackage{enumitem}
+
+\name{Sanjitkumar}{Nandkumar Naikwade}
+\mobile{9561948310}
+\email{sanjitnaikwade100@gmail.com}
+\location{Navi Mumbai, India}
+
+\begin{document}
+
+\makecvheader
+
+\cvsection{Objective}
+\begin{cvparagraph}
+An application support engineer with expertise in monitoring and maintaining the efficiency of software applications. Possessing extensive experience in providing application support in a fast-paced environment, I have successfully performed code migration. An enthusiastic learner looking to develop professionally and personally while growing along with the organization.
+\end{cvparagraph}
+
+\cvsection{Professional Experience}
+\begin{cventries}
+  \cventry
+    {System Engineer}
+    {Tata Consultancy Services, Mumbai}
+    {SBI-Core Banking Project - Vendor Payment System}
+    {Dec 2021 - Present}
+    {
+      \begin{cvitems}
+        \item Providing Production Support for Linux based financial application to maintain the application performance \& handling client requests.
+        \item Analyzing functional \& Technical issues as per customer requirements within and before due time.
+        \item Performing DRILL Activity as per client requirements.
+        \item Improving application flow processes, handling quality assurance activities, solving technical issues, assisting customer support departments, and optimizing system performance.
+      \end{cvitems}
+    }
+\end{cventries}
+
+\cvsection{Roles and Responsibilities}
+\begin{cvparagraph}
+\begin{itemize}[label=--]
+    \item \textbf{Domain Expert \& WebLogic Administrator}
+    \begin{itemize}
+        \item Installing and configuring WebLogic domains.
+        \item Performance monitoring \& Management.
+        \item Migrate Domains from TEST/DEV to PROD.
+        \item Configuring Data sources \& Security realms.
+        \item Troubleshooting JAR, EAR, and WAR, etc.
+    \end{itemize}
+\end{itemize}
+\end{cvparagraph}
+
+\cvsection{Professional Skills}
+\begin{cvskills}
+  \cvskill{Functional Skills}{Requirement gathering, Data Reconciliation, Impact Analysis, Business Rules, Change management, Communication}
+  \cvskill{Patching}{JDK, PSU, coherence, weblogic}
+  \cvskill{Certificate Upgradation}{OHS, APP}
+  \cvskill{DR, PR Drill Activity}{Deployment, Process Flow, Work Flow Diagrams, Reporting \& Quality Management}
+  \cvskill{Database System}{SQL Server, SQL and relational database management system}
+  \cvskill{Technical Skills}{Linux (RHEL), Shell scripting, Oracle WebLogic 12c, Oracle HTTP server, SQL, Unix, Apache Tomcat}
+  \cvskill{Software \& Tools}{OEM, Putty, Winscp, Eclipse, SQL developer, Weblogic}
+\end{cvskills}
+
+\cvsection{Educational Qualification}
+\begin{cventries}
+  \cventry
+    {Bachelor of Engineering \& Technology – Mechanical Engineering}
+    {TSSM's Bhivarabai Sawant College of Engineering and Research, Pune}
+    {CGPA - 7.99}
+    {2021}
+    {}
+  
+  \cventry
+    {Diploma - Mechanical Engineering}
+    {Swami Vivekanand Institute Of Polytechnic, Latur}
+    {Percentage – 64.63\%}
+    {2015}
+    {}
+  
+  \cventry
+    {SSC}
+    {Dnyaneshwar High School, Latur}
+    {Percentage – 81\%}
+    {2018}
+    {}
+\end{cventries}
+
+\cvsection{Achievements}
+\begin{cvhonors}
+  \cvhonor
+    {Linux Command Line Basic – Udemy}
+    {Completion Certificate}
+    {2019}
+  \cvhonor
+    {On The Spot Award \& Star of the Month Award}
+    {Multiple times for Outstanding performance}
+    {}
+  \cvhonor
+    {National Service Scheme (NSS)}
+    {Completed 2 Years with a special winter camp}
+    {2018}
+\end{cvhonors}
+
+\cvsection{Communication Skills}
+\begin{cvskills}
+  \cvskill{Languages}{Marathi, Hindi \& English}
+  \cvskill{Interpersonal}{Verbal and Written communication skills}
+\end{cvskills}
+
+\cvsection{Interests}
+\begin{cvinterests}
+  \cvinterest{Spirituality}{Krishna consciousness}
+  \cvinterest{Writing}{}
+  \cvinterest{Playing}{Cricket}
+\end{cvinterests}
+
+\end{document}
